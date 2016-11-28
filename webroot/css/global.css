@@ -262,6 +262,10 @@ input {
 	margin-bottom: 15px;
 }
 
+.search-form .input-list .fa {
+	margin-right: 8px;
+}
+
 div.ui-datepicker {
  	font-size: 20px;
 }
